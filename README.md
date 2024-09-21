@@ -1,1 +1,1 @@
-This is a sample file created to tes the Github actions workflow
+This is a sample file created to test the Github actions workflow
